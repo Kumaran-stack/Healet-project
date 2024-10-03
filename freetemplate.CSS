@@ -1,0 +1,941 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.outline{
+    border-style: solid;
+    height: 600px;
+    background-image: url(./healet-html/images/slider-bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    }
+
+.outline1{
+    
+    color: white;
+   
+    height: 60px;
+}
+.p{
+  
+    width: 20%;
+    margin-top: 0px;
+    margin-left: 9px;
+    padding: 5px;
+
+}
+.p2{
+    font-family: poppins,sans-serif;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 20px;
+    font-weight: 700;
+    color: #ffffff;
+    text-transform: uppercase;
+    }
+
+.heading{
+    
+    width: 60%;
+  overflow: auto;
+    padding: 184px 0;
+}
+.head1{
+   
+    width: 100%;
+    height: 309px;
+    
+    float: right;
+}
+.head2{
+   
+    font: 48px playfair diplay,serif;
+    font-weight: bold;
+    font-size: 44px;
+
+}
+.align{
+    width:75%;
+    float: right;
+}
+
+.best{
+height: 122px;
+margin-bottom: 0px;
+}
+.head{
+  
+    
+    height: 70px;
+   
+    width: 75%;
+}
+.para{
+    font: 16px poppins, sans-serif;
+    text-align: justify;
+    font-size: 12px;
+}
+.shop{
+
+    border-style: solid;
+    height: 40px;
+    width: 25%;
+    border-width: 1px;
+    margin-top: 30px;
+    border-radius: 7px;
+    color: #fd9c6b;
+    font: 16px poppins, sans-serif;
+   
+}
+.shop:hover{
+
+    background-color: #fd9c6b;
+    color: white;
+}
+.p1{
+   text-align: center;
+    margin-top: 9px;
+    font-size: 15px;
+}
+.late{
+    height: 910px;
+    margin-top: 10px;
+    
+}
+.late1{
+    
+    margin-top: 10px;
+    text-align: center;
+    text-transform: uppercase;
+}
+.late2{
+    font-family: 'Playfair Display', serif;
+    font-weight: 700px;
+    font-size: xx-large;
+    margin-top: 80px;
+}
+.ornament1{
+    
+    height: 343px;
+    width: 90%;
+    margin: 40px auto;
+}
+.div1{
+   
+    height: 327px;
+    width: 20%;
+    float: left;
+    margin-left: 72px;
+    background-color: #eee;
+}
+.div2{
+    
+    height: 327px;
+    width: 20%;
+    float: left;
+    margin-left: 30px;
+    background-color: #eee;
+}
+.div3{
+   
+    height: 327px;
+    width: 20%;
+    float: left;
+    margin-left: 30px;
+    background-color: #eee;
+}
+.div4{
+    
+    height: 327px;
+    width: 20%;
+    float: left;
+    margin-left: 30px;
+    background-color: #eee;
+}
+.necklace1{
+  
+    height: 150px;
+    width: 60%;
+    margin-left: 40px;
+    margin-top: 30px;
+    background-image: url(./healet-html/images/p1.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+}
+.necklace2{
+    
+    height: 150px;
+    width: 60%;
+    margin-left: 40px;
+    margin-top: 30px;
+    background-image: url(./healet-html/images/p2.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+}
+.necklace3{
+    
+    height: 150px;
+    width: 60%;
+    margin-left: 40px;
+    margin-top: 30px;
+    background-image: url(./healet-html/images/p3.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+}
+.necklace4{
+  
+    height: 150px;
+    width: 60%;
+    margin-left: 40px;
+    margin-top: 30px;
+    background-image: url(./healet-html/images/p4.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+}
+
+.smalldiv2{
+    
+    height: 30px;
+    margin-top: 35px;
+    width: 40%;
+    float: right;
+}
+.new1{
+    background-color: white;
+    height: 53px;
+    border-radius: 50px;
+    width: 22%;
+    margin-left: 10px;
+    margin-top: 10px;
+    
+}
+.n1{
+    font-family:  poppins,sans-serif;
+    text-align: center;
+    font-size: 14px;
+    padding-top: 14px;
+    
+}
+.nk{
+    font-family: poppins, sans-serif;
+    font-size: 15px;
+    margin-left: 10px;
+    width: 30%;
+    float: left;
+    margin-top: 48px;
+}
+.pr{
+    font-family: poppins, sans-serif;
+    font-size: 15px;
+    text-align: right;
+    margin-right: 10px;
+    margin-top: 14px;
+}
+.sd{
+    color: #fd9c6b;
+}
+.ornament2{
+    
+    height: 343px;
+    width: 90%;
+    margin: 40px auto;
+}
+.div5{
+    
+    height: 327px;
+    width: 20%;
+    float: left;
+    margin-left: 71px;
+    background-color: #eee;
+}
+.new2{
+    background-color: white;
+    height: 53px;
+    border-radius: 50px;
+    width: 22%;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.ring2{
+
+    height: 150px;
+    width: 60%;
+    margin-left: 40px;
+    margin-top: 30px;
+    background-image: url(./healet-html/images/p5.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+}
+.div6{
+    
+    height: 327px;
+    width: 20%;
+    float: left;
+    margin-left: 32px;
+    background-color: #eee;
+    
+}
+.ring3{
+    
+    height: 150px;
+    width: 60%;
+    margin-left: 40px;
+    margin-top: 30px;
+    background-image: url(./healet-html/images/p6.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+}
+.ring4{
+    
+    height: 150px;
+    width: 60%;
+    margin-left: 40px;
+    margin-top: 30px;
+    background-image: url(./healet-html/images/p7.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+}
+.ring5{
+    
+    height: 150px;
+    width: 60%;
+    margin-left: 40px;
+    margin-top: 30px;
+    background-image: url(./healet-html/images/p8.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+}
+.view{
+    border: 1px solid #fd9c6b;
+    height: 45px;
+    width: 18%;
+    margin: 0px auto;
+    font-family: poppins,sans-serif;
+    color: white;
+    border-radius: 10px;
+    background-color: #fd9c6b;
+    
+}
+.all{
+    font-family: poppins,sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    text-align: center;
+    margin-top: 10px;
+    
+}
+.view:hover{
+background-color: white;
+color: #fd9c6b;
+}
+
+.about{
+    border-style: solid;
+    height: 500px;
+}
+
+.photo{
+    height: 370px;
+}
+
+.photo1{
+    height: 300px;
+    width: 35%;
+    float: left;
+    margin-left: 140px;
+    margin-top: 70px;
+    background-image: url(./healet-html/images/about-img.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+}
+.ab{
+    
+    height: 40px;
+    width: 20%;
+    float: right;
+    margin-right: 400px;
+    margin-top: 112px;
+}
+.ab1{
+    text-transform: uppercase;
+    font-weight: 700;
+    font-family: 'Playfair Display', serif;
+    font-size: 34px;
+}
+.qu{
+    width: 40%;
+    float: right;
+    margin-right: 142px;
+    margin-top: 4px;
+    
+}
+.quote{
+    text-align: justify;
+    font-family: Poppins, sans-serif;
+    font-size: 16px;
+    letter-spacing: 0px;
+}
+.re{
+    border: 1px solid;
+    height: 43px;
+    width: 15%;
+    float: right;
+    margin-right: 456px;
+    margin-top: 26px;
+    background-color :#fd9c6b;
+    color:aliceblue;
+    
+}
+.quote1{
+    font-family: Poppins, sans-serif;
+    text-align: center;
+    font-weight: 500;
+    font-size: 18px;
+    margin-top: 8px;
+    color: white;
+}
+
+.re:hover{
+    background-color:white;
+color: #fd9c6b;   
+ 
+}
+.re:hover .quote1{
+    color: #fd9c6b;   
+}
+.bigdiv{
+   
+    height: 500px;
+}
+.bigdiv1{
+    height: 400px;
+    width: 59%;
+    margin-left: 10px;
+    margin-top: 90px;
+    float: left;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-image: url(./healet-html/images/o1.jpg);
+}
+.bigdiv2{
+    float: right;
+    height: 192px;
+    width: 37%;
+    margin-right: 20px;
+    margin-top: 90px;
+    background-image: url(./healet-html/images/o2.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.bigdiv3{
+    float: right;
+    height: 181px;
+    width: 37%;
+    margin-right: 20px;
+    margin-top: 20px;
+    background-image: url(./healet-html/images/o3.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.up{
+    color: white;
+    font-size: 39px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.sh1{
+    text-align: center;
+    font-size: 15px;
+    margin-top: 9px;
+    font-weight: 500;
+}
+.shop1{
+    border: 1px solid;
+    height: 41px;
+    width: 20%;
+    margin-top: 15px;
+    color: #fd9c6b;
+    font: 16px poppins, sans-serif; 
+    margin-left: 15px;
+    float: left;
+}
+
+.shop1:hover{
+
+    background-color: #fd9c6b;
+    color: white;
+}
+
+.shop2{
+    border: 1px solid;
+    height: 38px;
+    width: 29%;
+    margin-top: 134px;
+    color: #fd9c6b;
+    font: 16px poppins, sans-serif;
+    margin-right: 7px;
+    margin-left: 312px;
+}
+
+.shop2:hover{
+
+    background-color: #fd9c6b;
+    color: white;
+}
+
+.shop3:hover{
+
+    background-color: #fd9c6b;
+    color: white;
+}
+.up1{
+    color: white;
+    font-size: 28px;
+    margin-left: 11px;
+    
+}
+.smalldiv3{
+    height: 34px;
+    width: 40%;
+    float: right;
+    margin-top: 92px;
+    margin-right: 7px
+
+}
+.smalldiv4{
+    float: left;
+}
+
+.up2{
+    margin-top: 82px;
+    color: white;
+    font-size: 28px;
+    margin-left: 20px;
+}
+.shop3{
+    border: 1px solid;
+    height: 38px;
+    width: 29%;
+    margin-top: 129px;
+    color: #fd9c6b;
+    font: 16px poppins, sans-serif;
+    margin-left: 7px;
+}
+.blog{
+
+    height: 35px;
+    margin-top: 80px;
+}
+.blog1{
+
+    text-transform: uppercase;
+    text-align: center;
+    font-family: 'Playfair Display', serif;
+    font-size: 27px;
+}
+.biggirl{
+    height: 505px;
+    margin-top: 40px;
+}
+.girl1{
+        height: 500px;
+        width: 35%;
+        float: left;
+        margin-left: 175px;
+        background-color: lightgrey;
+}
+.smallgirl{
+    border: 0.1px solid;
+    height: 350px;
+    background-image: url(./healet-html/images/b1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.fourteen{
+    border: 1px solid;
+    height: 55px;
+    width: 12%;
+    margin-top: 299px;
+    margin-left: 20px;
+    background-color: #160e0b;
+    color: white;
+}
+.smallgirl1{
+    border: 0.1px solid;
+    height: 350px;
+    background-image: url(./healet-html/images/b2.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.girl2{
+    height: 500px;
+    width: 35%;
+    float: right;
+    margin-right: 173px;
+    background-color: lightgrey;
+}
+.july{
+    color: white;
+    font-family: Poppins, sans-serif;
+    FONT-SIZE: 14px;
+    text-align: center;
+    margin-top: 8px;
+    font-weight: 500;
+}
+.c1{
+   border-style: solid;
+    height: 122px;
+}
+.navee{
+    margin-top: 0px;
+    font-size: 15px;
+    margin-left: 12px;
+    float: left;
+}
+.q5{
+  
+    height: 40px;
+    margin-top: 31px;
+}
+.q6{
+    text-align: justify;
+    font-size: 12px;
+    font-family: Poppins, sans-serif;
+    margin-left: 17px;
+}
+.read{
+    border: 1px solid;
+    height: 33px;
+    width: 26%;
+    float: left;
+    margin-top: 11px;
+    margin-left: 15px;
+    
+}
+.r{
+    font-size: 13px;
+    font-weight: 400;
+    margin-top: 6px;
+}
+
+.read:hover {
+    background-color: black;
+color: white;
+    
+}
+
+.test{
+    height: 34px;
+    text-align: center;
+    margin-top: 78px;
+}
+.test1{
+    text-transform: uppercase;
+    font-size: 28px;
+}
+.samandiv{
+    border-style: solid;
+    height: 247px;
+    width: 54%;
+    margin: auto;
+    border-radius: 11px;
+    background-color: black;
+    margin-top: 34px;
+}
+.samandiv1{
+    border: 5px solid rgba(255, 255, 255, .45);
+    height: 101px;
+    width: 14%;
+    margin: auto;
+    margin-top: 24px;
+    border-radius: 76px;
+    border-color: gray;
+    background-image: url(./healet-html/images/client.jpg);
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    
+}
+.samandiv2{
+    height: 22px;
+    text-align: center;
+    font-family: poppins,sans-serif;
+}
+.sjquote{
+    font-family: poppins,sans-serif;
+    font-size: 15px;
+    color: #fd9c6b;
+}
+.samandiv3{
+    height: 40px;
+    margin-top: 8px;
+}
+.samanquote{
+    text-align: center;
+    font-family: poppins, sans-serif;
+    font-size: 13px;
+    color: white;
+}
+.arrowbutton{
+    height: 40px;
+    margin-top: 30px;
+    text-align: center;
+}
+.bu1{
+    height: 30px;
+    margin-left: 623px;
+    float: left;
+    border-radius: 4px;
+    background-color: #fd9c6b;
+    width: 3%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.bu1:hover{
+    background-color: black;
+}
+.bu2{
+    height: 30px;
+    width: 3%;
+    margin-right: 632px;
+    border-radius: 4px;;
+    float: right;
+    background-color: #fd9c6b;
+}
+.bu2:hover{
+    background-color: black;
+}
+.im1{
+    margin-top: 5px;
+}
+.im2 {
+    margin-top: 5px;
+}
+.foot{
+    border: 1px solid;
+    height: 332px;
+    margin-top: 56px;
+    background-color: #160e0b;
+}
+.email{
+    border: 1px solid;
+    height: 35px;
+    width: 54%;
+    margin-left: 184px;
+    margin-top: 28px;
+    color: white;
+    background-color: white;
+}
+.fb{
+    border: 1px solid;
+    color: white;
+    height: 39px;
+    width: 3%;
+    float: right;
+    margin-right: 203px;
+    margin-top: 26px;
+    background-image: url(./healet-html/216394_linkedin_social_icon.png);
+    background-position: center;
+    background-size: 23px;
+    background-repeat: no-repeat;
+}
+.tw{
+    border: 1px solid;
+    color: white;
+    height: 39px;
+    width: 3%;
+    float: right;
+    margin-top: 26px;
+    margin-right: 9px;
+    background-image: url(./healet-html/2197014_social\ media_twitter_twitter\ logo_twitter\ button_icon\ \(1\).png);
+    background-position: center;
+    background-size: 31px;
+    background-repeat: no-repeat;
+}
+.in{
+   border: 1px solid;
+    color: white;
+    height: 39px;
+    width: 3%;
+    float: right;
+    margin-top: 26px;
+    margin-right: 11px;
+    background-image: url(./healet-html/2274398_facebook_media_social_icon.png);
+    background-position: center;
+    background-size: contain;
+}
+.in:hover{
+    border-color: #fd9c6b;
+    
+}
+.email1{
+    border: 1px solid;
+    height: 38px;
+    width: 7%;
+    color: #fd9c6b;
+    background-color: #fd9c6b;
+    margin-left: 677px;
+    margin-top: -2px;
+}
+.email1:hover{
+    background-color: black;
+}
+.im3{
+    
+    margin-top: 9px;
+    margin-left: 18px;
+}
+.foot1{
+    height: 27px;
+    margin-top: 56px;
+    color: white;
+
+}
+.footdiv1{
+    /* border-style: solid; */
+    color: white;
+    width: 80%;
+    height: 206px;
+    margin: auto;
+}
+.footsmalldiv1{
+    /* border-style: solid; */
+    width: 20%;
+    height: 198px;
+    float: left;
+    margin-left: 40px;
+}
+.microdiv1{
+    /* border-style: solid; */
+    font-family: poppins,sans-serif;
+    height: 24px;
+    width: 97%;
+    font-family: poppins, sans-serif;
+    height: 26px;
+    width: 97%;
+    margin-top: 12px;
+}
+.microdiv2{
+    /* border-style: solid; */
+    font-family: poppins,sans-serif;
+    height: 50px;
+    width: 95%;
+    margin-top: 10px;
+    margin-top: 5px;
+}
+.microdiv3{
+    /* border-style: solid; */
+    font-family: poppins,sans-serif;
+    height: 50PX;
+    width: 80%;
+}
+.microdiv4{
+    /* border-style: solid; */
+    font-family: poppins,sans-serif;
+    height: 30px;
+    width: 95%;
+}
+.hm{
+    font-size: 18px;
+    font-family: poppins,sans-serif;
+    font-weight: 500;
+}
+.hm1{
+    font-size: 13px;
+    font-weight: 400;
+
+}
+.microsmalldiv{
+    /* border-style: solid; */
+    height: 43px;
+    width: 31%;
+    background-image: url(./healet-html/images/p1.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 38px;
+    background-color: white;
+}
+.microsmalldiv2{
+   /* border-style: solid; */
+    width: 30%;
+    height: 25px;
+    background-image: url(./healet-html/211766_location_icon.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 20px;
+}
+.microsmalldivimage{
+    /* border-style: solid; */
+    height: 43px;
+    width: 31%;
+    background-image: url(./healet-html/images/p2.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 27px;
+    background-color: white;
+}
+.paradiv{
+
+    height: 101px;
+    margin-top: 10px;
+}
+.paradivline{
+    font-family: poppins, sans-serif;
+    font-size: 13px;
+    font-weight: 500;
+}
+.microsmalldivimage1{
+
+    width: 30%;
+    height: 25px;
+    background-image: url(./healet-html/9110777_call_phone_icon.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 17px;
+}
+.microsmalldivimage2{
+
+    width: 30%;
+    height: 25px;
+    background-image: url(./healet-html/134146_mail_email_icon.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 20px;
+}
+.headingdiv{
+
+    height: 20px;
+    float: right;
+    width: 59%;
+    margin-right: 28px;
+}
+.mhl{
+    font-family: poppins, sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+}
+.paradivline1{
+    /* border-style: solid; */
+    height: 42px;
+    float: right;
+    width: 62%;
+}
+.linequote{
+    font-size: 13px;
+    font-family: poppins, sans-serif;
+    font-size: 13px;
+    font-weight: 500;
+}
